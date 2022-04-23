@@ -183,7 +183,7 @@ form div > input, form div > select, form div > textarea{
 }
 
 form div > input, form div > select{
-	height: :50px;
+	height:50px;
 	padding-left: 15px;
 }
 
