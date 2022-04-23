@@ -462,7 +462,7 @@ label #cancel{
 	text-decoration:underline;
 }
 
-.header_menu a: hover{
+.header_menu a:hover{
 	color:#C1AB86;
 	font-size: 16px;
 	margin-top:10px;
